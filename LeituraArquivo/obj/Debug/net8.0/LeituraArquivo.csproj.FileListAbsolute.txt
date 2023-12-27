@@ -1,0 +1,14 @@
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\LeituraArquivo\bin\Debug\net8.0\LeituraArquivo.exe
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\LeituraArquivo\bin\Debug\net8.0\LeituraArquivo.deps.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\LeituraArquivo\bin\Debug\net8.0\LeituraArquivo.runtimeconfig.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\LeituraArquivo\bin\Debug\net8.0\LeituraArquivo.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\LeituraArquivo\bin\Debug\net8.0\LeituraArquivo.pdb
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\LeituraArquivo\obj\Debug\net8.0\LeituraArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\LeituraArquivo\obj\Debug\net8.0\LeituraArquivo.AssemblyInfoInputs.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\LeituraArquivo\obj\Debug\net8.0\LeituraArquivo.AssemblyInfo.cs
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\LeituraArquivo\obj\Debug\net8.0\LeituraArquivo.csproj.CoreCompileInputs.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\LeituraArquivo\obj\Debug\net8.0\LeituraArquivo.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\LeituraArquivo\obj\Debug\net8.0\refint\LeituraArquivo.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\LeituraArquivo\obj\Debug\net8.0\LeituraArquivo.pdb
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\LeituraArquivo\obj\Debug\net8.0\LeituraArquivo.genruntimeconfig.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\LeituraArquivo\obj\Debug\net8.0\ref\LeituraArquivo.dll

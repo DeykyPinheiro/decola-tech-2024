@@ -1,0 +1,14 @@
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.exe
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.deps.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.runtimeconfig.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\ExemploExplorando\bin\Debug\net8.0\ExemploExplorando.pdb
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.AssemblyInfo.cs
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\ExemploExplorando\obj\Debug\net8.0\refint\ExemploExplorando.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll

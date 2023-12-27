@@ -1,0 +1,14 @@
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\EstruturaDeDados\bin\Debug\net8.0\EstruturaDeDados.exe
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\EstruturaDeDados\bin\Debug\net8.0\EstruturaDeDados.deps.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\EstruturaDeDados\bin\Debug\net8.0\EstruturaDeDados.runtimeconfig.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\EstruturaDeDados\bin\Debug\net8.0\EstruturaDeDados.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\EstruturaDeDados\bin\Debug\net8.0\EstruturaDeDados.pdb
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\EstruturaDeDados\obj\Debug\net8.0\EstruturaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\EstruturaDeDados\obj\Debug\net8.0\EstruturaDeDados.AssemblyInfoInputs.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\EstruturaDeDados\obj\Debug\net8.0\EstruturaDeDados.AssemblyInfo.cs
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\EstruturaDeDados\obj\Debug\net8.0\EstruturaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\EstruturaDeDados\obj\Debug\net8.0\EstruturaDeDados.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\EstruturaDeDados\obj\Debug\net8.0\refint\EstruturaDeDados.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\EstruturaDeDados\obj\Debug\net8.0\EstruturaDeDados.pdb
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\EstruturaDeDados\obj\Debug\net8.0\EstruturaDeDados.genruntimeconfig.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\EstruturaDeDados\obj\Debug\net8.0\ref\EstruturaDeDados.dll

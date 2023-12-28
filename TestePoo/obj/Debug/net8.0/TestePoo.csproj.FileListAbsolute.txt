@@ -1,0 +1,15 @@
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\bin\Debug\net8.0\TestePoo.exe
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\bin\Debug\net8.0\TestePoo.deps.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\bin\Debug\net8.0\TestePoo.runtimeconfig.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\bin\Debug\net8.0\TestePoo.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\bin\Debug\net8.0\TestePoo.pdb
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\obj\Debug\net8.0\TestePoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\obj\Debug\net8.0\TestePoo.AssemblyInfoInputs.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\obj\Debug\net8.0\TestePoo.AssemblyInfo.cs
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\obj\Debug\net8.0\TestePoo.csproj.CoreCompileInputs.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\obj\Debug\net8.0\TestePoo.sourcelink.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\obj\Debug\net8.0\TestePoo.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\obj\Debug\net8.0\refint\TestePoo.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\obj\Debug\net8.0\TestePoo.pdb
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\obj\Debug\net8.0\TestePoo.genruntimeconfig.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\TestePoo\obj\Debug\net8.0\ref\TestePoo.dll

@@ -1,0 +1,15 @@
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\bin\Debug\net8.0\DesafiosDeCodigo.exe
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\bin\Debug\net8.0\DesafiosDeCodigo.deps.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\bin\Debug\net8.0\DesafiosDeCodigo.runtimeconfig.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\bin\Debug\net8.0\DesafiosDeCodigo.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\bin\Debug\net8.0\DesafiosDeCodigo.pdb
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\obj\Debug\net8.0\DesafiosDeCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\obj\Debug\net8.0\DesafiosDeCodigo.AssemblyInfoInputs.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\obj\Debug\net8.0\DesafiosDeCodigo.AssemblyInfo.cs
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\obj\Debug\net8.0\DesafiosDeCodigo.csproj.CoreCompileInputs.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\obj\Debug\net8.0\DesafiosDeCodigo.sourcelink.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\obj\Debug\net8.0\DesafiosDeCodigo.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\obj\Debug\net8.0\refint\DesafiosDeCodigo.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\obj\Debug\net8.0\DesafiosDeCodigo.pdb
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\obj\Debug\net8.0\DesafiosDeCodigo.genruntimeconfig.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafiosDeCodigo\obj\Debug\net8.0\ref\DesafiosDeCodigo.dll

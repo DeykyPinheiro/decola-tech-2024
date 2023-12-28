@@ -1,0 +1,15 @@
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\bin\Debug\net8.0\DesafioCelular.exe
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\bin\Debug\net8.0\DesafioCelular.deps.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\bin\Debug\net8.0\DesafioCelular.runtimeconfig.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\bin\Debug\net8.0\DesafioCelular.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\bin\Debug\net8.0\DesafioCelular.pdb
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\obj\Debug\net8.0\DesafioCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\obj\Debug\net8.0\DesafioCelular.AssemblyInfoInputs.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\obj\Debug\net8.0\DesafioCelular.AssemblyInfo.cs
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\obj\Debug\net8.0\DesafioCelular.csproj.CoreCompileInputs.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\obj\Debug\net8.0\DesafioCelular.sourcelink.json
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\obj\Debug\net8.0\DesafioCelular.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\obj\Debug\net8.0\refint\DesafioCelular.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\obj\Debug\net8.0\DesafioCelular.pdb
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\obj\Debug\net8.0\DesafioCelular.genruntimeconfig.cache
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\DesafioCelular\obj\Debug\net8.0\ref\DesafioCelular.dll

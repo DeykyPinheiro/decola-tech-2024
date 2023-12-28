@@ -26,3 +26,4 @@ C:\Users\pinheiro\_develop\c#\decola-tech-2024\HelloWorld\obj\Debug\net8.0\refin
 C:\Users\pinheiro\_develop\c#\decola-tech-2024\HelloWorld\obj\Debug\net8.0\hello-world.pdb
 C:\Users\pinheiro\_develop\c#\decola-tech-2024\HelloWorld\obj\Debug\net8.0\hello-world.genruntimeconfig.cache
 C:\Users\pinheiro\_develop\c#\decola-tech-2024\HelloWorld\obj\Debug\net8.0\ref\hello-world.dll
+C:\Users\pinheiro\_develop\c#\decola-tech-2024\HelloWorld\obj\Debug\net8.0\hello-world.sourcelink.json
